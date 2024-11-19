@@ -29,7 +29,7 @@ class MessageFieldBox extends StatelessWidget {
       controller: textController,
       decoration: inputDecoration,
       onFieldSubmitted: (value) {
-        print('Submit value $value');
+        print('Submit value: $value');
         textController.clear();
       },
     );
