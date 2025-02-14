@@ -10,7 +10,7 @@ Aplicación interactiva que permite construir circuitos lógicos utilizando úni
 - 🎞️ **Animación dinámica**: Las señales viajan a través del circuito y producen la salida en tiempo real.  
 - 📐 **Diseño flexible**: La interfaz se adapta según la compuerta seleccionada.  
 
-📂 Ubicación del código: `logic_gates_app/`  
+📂 Ubicación del código: `logic_gates_simulator/`  
 
 ### 2. **Widgets Showcase** 🏗️  
 Aplicación modular en Flutter para explorar widgets reutilizables siguiendo los principios de Clean Code y estado con Riverpod.  
@@ -34,7 +34,7 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 - 🎞️ **Reproductor optimizado**: Manejo de reproducción eficiente en scroll infinito.  
 - 🔧 **Personalizable**: Permite cambiar la fuente de datos según la API configurada.  
 
-📂 Ubicación del código: `tiktok_wrapper/`  
+📂 Ubicación del código: `tik_tok_wrapper/`  
 
 ---  
 ## 📷 Screenshots
@@ -45,12 +45,37 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 ![alt text](screenshots//Screenshot_1739563871.png)
 ![alt text](screenshots//Screenshot_1739563896.png)
 
+##📌 Requisitos
+- Flutter SDK instalado Flutter 3.27.3 
+  - > Tools • Dart 3.6.1 • DevTools 2.40.2 ✅
+- Dependencias actualizadas con flutter pub get ✅
+- Configuración de API Keys si es necesario (para Movies_app) 🔑
+
 ## 🚀 Instalación  
 
 Cada aplicación es independiente, por lo que puedes clonar este repositorio y entrar a la carpeta del proyecto que quieras ejecutar:  
 
 ```sh
-git clone https://github.com/tu-usuario/flutter-project-suite.git
+git clone https://github.com/8ctal/Flutter_mini_projects.git
 cd nombre_de_la_app
 flutter pub get
 flutter run
+```
+📖 Estructura de Carpetas
+flutter-project-suite/
+│── logic_gates_simulator/
+│── widgets_app/
+│── yes_no_app/
+│── tik_tok_wrapper/
+└── README.md
+
+📢 Contribución
+Si quieres mejorar alguna aplicación o añadir nuevas funcionalidades, ¡haz un fork y envía un pull request! 💡
+
+📜 Licencia
+Este proyecto está bajo la licencia MIT.
+
+📩 Contacto
+Si tienes dudas o sugerencias, contáctame en [camilojaimes04@gmail.com]
+
+🎯 ¡Gracias por revisar este proyecto! 🚀
