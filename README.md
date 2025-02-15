@@ -39,13 +39,12 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 ---  
 ## 📷 Screenshots
 <img src="screenshots/Screenshot_1739563512.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots//Screenshot_1739563556.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots//Screenshot_1739563528.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots//Screenshot_1739563865.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots//Screenshot_1739563871.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots//Screenshot_1739563896.png" alt="widgets-app" width="450" height="1000">
 
-![alt text](screenshots/Screenshot_1739563512.png)
-![alt text](screenshots//Screenshot_1739563556.png)
-![alt text](screenshots//Screenshot_1739563528.png)
-![alt text](screenshots//Screenshot_1739563865.png)
-![alt text](screenshots//Screenshot_1739563871.png)
-![alt text](screenshots//Screenshot_1739563896.png)
 
 ##📌 Requisitos
 - Flutter SDK instalado Flutter 3.27.3 
