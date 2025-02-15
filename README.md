@@ -38,7 +38,7 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 
 ---  
 ## 📷 Screenshots
-<img src="screenshots/Screenshot_1739563512.png" alt="widgets-app" width="1080" height="720">
+<img src="screenshots/Screenshot_1739563512.png" alt="widgets-app" width="300" height="1000">
 
 ![alt text](screenshots/Screenshot_1739563512.png)
 ![alt text](screenshots//Screenshot_1739563556.png)
