@@ -38,10 +38,10 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 
 ---  
 ## 📷 Screenshots
-<img src="screenshots/Screenshot_1739563512.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots//Screenshot_1739563556.png" alt="widgets-app" width="450" height="1000">
-<img src="screenshots//Screenshot_1739563528.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots//Screenshot_1739563865.png" alt="widgets-app" width="450" height="1000">
-<img src="screenshots//Screenshot_1739563871.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots//Screenshot_1739563896.png" alt="widgets-app" width="450" height="1000">
-
+<img src="screenshots/Screenshot_1739563512.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots/Screenshot_1739563556.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots/Screenshot_1739563528.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots/Screenshot_1739563865.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots/Screenshot_1739563871.png" alt="yesno-app" width="450" height="1000"> <img src="screenshots/Screenshot_1739563896.png" alt="yesno" width="450" height="1000">
+<img src="screenshots/{7114B25B-9754-4435-93F9-8747B4D98B47}.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots/{AD0DBDD8-53A2-4388-8695-D7202A57756E}.png" alt="widgets-app" width="450" height="1000">
 
 ##📌 Requisitos
 - Flutter SDK instalado Flutter 3.27.3 
