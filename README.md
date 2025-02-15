@@ -60,13 +60,14 @@ flutter pub get
 flutter run
 ```
 📖 Estructura de Carpetas
+```sh
 flutter-project-suite/
 │── logic_gates_simulator/
 │── widgets_app/
 │── yes_no_app/
 │── tik_tok_wrapper/
 └── README.md
-
+```
 📢 Contribución
 Si quieres mejorar alguna aplicación o añadir nuevas funcionalidades, ¡haz un fork y envía un pull request! 💡
 
