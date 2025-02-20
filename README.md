@@ -22,7 +22,7 @@ Aplicación modular en Flutter para explorar widgets reutilizables siguiendo los
 
 ### 3. **Yes/No App** ❓  
 Aplicación simple que consulta una API y devuelve respuestas aleatorias de "Sí" o "No".  
-- 🔄 **Integración con API**: Obtiene respuestas dinámicas desde un servicio externo.  
+- 🔄 **Integración con API**: Obtiene respuestas dinámicas desde un servicio externo (https://yesno.wtf/#api).  
 - 📊 **Manejo de estado eficiente**: Implementación de `FutureProvider` en Riverpod.  
 - 🎨 **Diseño minimalista**: UI sencilla e intuitiva.  
 
@@ -42,6 +42,7 @@ Un wrapper en Flutter que integra una API de videos para simular la experiencia 
 <img src="screenshots/Screenshot_1739563528.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots/Screenshot_1739563865.png" alt="widgets-app" width="450" height="1000">
 <img src="screenshots/Screenshot_1739563871.png" alt="yesno-app" width="450" height="1000"> <img src="screenshots/Screenshot_1739563896.png" alt="yesno" width="450" height="1000">
 <img src="screenshots/{7114B25B-9754-4435-93F9-8747B4D98B47}.png" alt="widgets-app" width="450" height="1000"> <img src="screenshots/{AD0DBDD8-53A2-4388-8695-D7202A57756E}.png" alt="widgets-app" width="450" height="1000">
+<img src="screenshots/WhatsApp Image 2025-02-15 at 1.22.31 AM (1).jpeg" alt="widgets-app" width="450" height="1000"> <img src="screenshots/WhatsApp Image 2025-02-15 at 1.22.31 AM.jpeg" alt="widgets-app" width="450" height="1000">
 
 ##📌 Requisitos
 - Flutter SDK instalado Flutter 3.27.3 
